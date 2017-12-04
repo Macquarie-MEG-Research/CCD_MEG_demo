@@ -16,6 +16,12 @@
 - Step-9   : connectivity analysis 
 - Step-10  : network analysis
 
+### Slides 
+
+![Imgur](https://i.imgur.com/B6gInGf.png) 
+
+[LINK TO SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRt6Ts49K-EcwFMC0z25SerFBJPWyJbA9ZX3Fv5_Z0QlFWDPeIe-uWrzuVvwr2mIzatrSLn1fi2AaNz/pub?start=false&loop=false&delayms=3000)
+
 **Download Fieldtrip here (download 384MB):**
 
 [ftp://ftp.fieldtriptoolbox.org/pub/fieldtrip/fieldtrip-20171128.zip](ftp://ftp.fieldtriptoolbox.org/pub/fieldtrip/fieldtrip-20171128.zip)

@@ -48,6 +48,9 @@
 
 %% Step-0.1: Visualising the MEG and head shape coregistration
 load grad_trans.mat; % co-registered meg  
+load sourcemodel.mat % load sourcemodel
+load headmodel_singleshell.mat % load headmodel_singleshell
+
 
 %%visualize the coregistration of sensors, and headshape.
 figure;

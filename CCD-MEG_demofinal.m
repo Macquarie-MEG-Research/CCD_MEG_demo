@@ -555,7 +555,7 @@ cfg           = [];
 cfg.method    = 'degrees';
 cfg.parameter = 'cohspctrm';
 cfg.threshold = .2;
-network_fll  = ft_networkanalysis(cfg,source_conn);
+network_full  = ft_networkanalysis(cfg,source_conn);
 
 network_full.pos = sourcemodel.pos;
 network_full.dim = sourcemodel.dim;

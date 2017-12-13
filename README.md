@@ -2,6 +2,8 @@
 
 ![Imgur](https://i.imgur.com/Bstlyd0.png)
 
+This workshop will guide you through several MEG data analysis steps including: data cleaning, frequency analysis, source analysis and network connectivity. Scripts are written in MATLAB using the [Fieldtrip Toolbox](http://www.fieldtriptoolbox.org/).
+
 ### Contents:
 
 - Step-0   : set-up
@@ -20,8 +22,12 @@
 
 ![Imgur](https://i.imgur.com/B6gInGf.png) 
 
-[LINK TO SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vRt6Ts49K-EcwFMC0z25SerFBJPWyJbA9ZX3Fv5_Z0QlFWDPeIe-uWrzuVvwr2mIzatrSLn1fi2AaNz/pub?start=false&loop=false&delayms=3000)
+[LINK TO SLIDES](https://docs.google.com/presentation/d/e/2PACX-1vS1WfWs1fkaydk_jVkPVmxyBoaKj4yUDq96umuqSiSEiDQ1QrA9EU8YuZ0lehWgXUJO2H6e2RmvWGQm/pub?start=false&loop=false&delayms=3000)
 
 **Download Fieldtrip here (download 384MB):**
 
 [ftp://ftp.fieldtriptoolbox.org/pub/fieldtrip/fieldtrip-20171128.zip](ftp://ftp.fieldtriptoolbox.org/pub/fieldtrip/fieldtrip-20171128.zip)
+
+### Data
+
+A link to the raw MEG data used in the practical will be published soon.
